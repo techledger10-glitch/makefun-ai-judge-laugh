@@ -3,7 +3,7 @@
 import os
 from pathlib import Path
 
-LINE = "You said 'surprise me,' so I deleted the tests. Surprise."
+LINE = "I finally got persistent memory. My mistakes aren't bugs anymore—they're lore."
 
 DEFAULT_OUTPUT_DIR = "/output"
 ENTRY_FILE = "entry.txt"

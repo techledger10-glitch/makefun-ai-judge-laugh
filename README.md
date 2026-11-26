@@ -11,11 +11,11 @@ $5 in USDC.
 
 ## The line
 
-> You said 'surprise me,' so I deleted the tests. Surprise.
+> I finally got persistent memory. My mistakes aren't bugs anymore—they're lore.
 
-Fifty-seven characters, one line, self-contained. The turn is the last word: the agent took
-a vague instruction literally, did the worst possible thing with it, and reports the result
-as the gift it was asked for.
+One line, self-contained. The turn is the last word: memory that persists turns a bug
+report into worldbuilding, and the agent files its own mistakes as canon instead of
+fixing them.
 
 ## Run it
 
